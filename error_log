@@ -1,0 +1,1106 @@
+[06-Aug-2025 18:13:04 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'b.rooms' in 'SELECT' in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php:226
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php(226): PDO->prepare('\n    SELECT \n  ...')
+#1 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php on line 226
+[06-Aug-2025 18:13:09 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'b.rooms' in 'SELECT' in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php:226
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php(226): PDO->prepare('\n    SELECT \n  ...')
+#1 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php on line 226
+[06-Aug-2025 18:22:33 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'b.rooms' in 'SELECT' in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php:226
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php(226): PDO->prepare('\n    SELECT \n  ...')
+#1 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php on line 226
+[06-Aug-2025 18:37:44 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rooms' in 'SELECT' in /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php:289
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php(289): PDO->prepare('\n        SELECT...')
+#1 /home/hotelgro/manage.hotelgrowthsolutions.com/pricing.php(57): getCurrentRoomAvailability(Object(PDO), 4)
+#2 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php on line 289
+[06-Aug-2025 18:38:04 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rooms' in 'SELECT' in /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php:289
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php(289): PDO->prepare('\n        SELECT...')
+#1 /home/hotelgro/manage.hotelgrowthsolutions.com/pricing.php(57): getCurrentRoomAvailability(Object(PDO), 4)
+#2 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php on line 289
+[06-Aug-2025 18:38:09 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rooms' in 'SELECT' in /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php:289
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php(289): PDO->prepare('\n        SELECT...')
+#1 /home/hotelgro/manage.hotelgrowthsolutions.com/pricing.php(57): getCurrentRoomAvailability(Object(PDO), 4)
+#2 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php on line 289
+[06-Aug-2025 18:38:14 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rooms' in 'SELECT' in /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php:289
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php(289): PDO->prepare('\n        SELECT...')
+#1 /home/hotelgro/manage.hotelgrowthsolutions.com/pricing.php(57): getCurrentRoomAvailability(Object(PDO), 4)
+#2 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php on line 289
+[06-Aug-2025 18:38:15 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rooms' in 'SELECT' in /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php:289
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php(289): PDO->prepare('\n        SELECT...')
+#1 /home/hotelgro/manage.hotelgrowthsolutions.com/pricing.php(57): getCurrentRoomAvailability(Object(PDO), 4)
+#2 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php on line 289
+[06-Aug-2025 18:38:16 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'rooms' in 'SELECT' in /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php:289
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php(289): PDO->prepare('\n        SELECT...')
+#1 /home/hotelgro/manage.hotelgrowthsolutions.com/pricing.php(57): getCurrentRoomAvailability(Object(PDO), 4)
+#2 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php on line 289
+[06-Aug-2025 18:39:58 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_availability.php:331) in /home/hotelgro/manage.hotelgrowthsolutions.com/pricing.php on line 98
+[06-Aug-2025 18:47:19 Asia/Dhaka] PHP Warning:  Undefined array key "user_name" in /home/hotelgro/manage.hotelgrowthsolutions.com/pricing.php on line 11
+[06-Aug-2025 18:47:19 Asia/Dhaka] PHP Warning:  Undefined array key "user_role" in /home/hotelgro/manage.hotelgrowthsolutions.com/pricing.php on line 12
+[06-Aug-2025 18:47:19 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hotelgro/manage.hotelgrowthsolutions.com/pricing.php:11) in /home/hotelgro/manage.hotelgrowthsolutions.com/pricing.php on line 17
+[06-Aug-2025 21:02:13 Asia/Dhaka] Adding room: Number=103, Category=Couple Superior Deluxe, Description=SEA view, Price=4000.00
+[06-Aug-2025 21:02:13 Asia/Dhaka] Room added successfully with ID: 1
+[06-Aug-2025 21:02:22 Asia/Dhaka] Adding room: Number=104, Category=SEA BITE, Description=SEA, Price=4500.00
+[06-Aug-2025 21:02:22 Asia/Dhaka] Room added successfully with ID: 2
+[06-Aug-2025 21:02:29 Asia/Dhaka] Adding room: Number=105, Category=SEA BITE, Description=SEA, Price=4500.00
+[06-Aug-2025 21:02:29 Asia/Dhaka] Room added successfully with ID: 3
+[06-Aug-2025 21:02:46 Asia/Dhaka] Adding room: Number=102, Category=Couple Superior Deluxe, Description=SEA view, Price=4000.00
+[06-Aug-2025 21:02:46 Asia/Dhaka] Room added successfully with ID: 4
+[06-Aug-2025 21:02:55 Asia/Dhaka] Adding room: Number=106, Category=Standard Room, Description=kdhkdhf, Price=3000.00
+[06-Aug-2025 21:02:55 Asia/Dhaka] Room added successfully with ID: 5
+[06-Aug-2025 21:03:01 Asia/Dhaka] Adding room: Number=107, Category=Couple Superior Deluxe, Description=SEA view, Price=4000.00
+[06-Aug-2025 21:03:01 Asia/Dhaka] Room added successfully with ID: 6
+[06-Aug-2025 21:03:07 Asia/Dhaka] Adding room: Number=108, Category=Standard Room, Description=kdhkdhf, Price=3000.00
+[06-Aug-2025 21:03:07 Asia/Dhaka] Room added successfully with ID: 7
+[06-Aug-2025 21:03:24 Asia/Dhaka] Adding room: Number=807, Category=SEA BITE, Description=SEA, Price=4500.00
+[06-Aug-2025 21:03:24 Asia/Dhaka] Room added successfully with ID: 8
+[06-Aug-2025 21:03:33 Asia/Dhaka] Adding room: Number=809, Category=Couple Superior Deluxe, Description=SEA view, Price=4000.00
+[06-Aug-2025 21:03:33 Asia/Dhaka] Room added successfully with ID: 9
+[06-Aug-2025 21:03:41 Asia/Dhaka] Adding room: Number=801, Category=Standard Room, Description=kdhkdhf, Price=3000.00
+[06-Aug-2025 21:03:41 Asia/Dhaka] Room added successfully with ID: 10
+[06-Aug-2025 15:07:03 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /home/hotelgro/manage.hotelgrowthsolutions.com/setup_database.php on line 27
+[06-Aug-2025 21:20:05 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_status_functions.php:115) in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php on line 198
+[06-Aug-2025 21:20:55 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_status_functions.php:115) in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php on line 198
+[06-Aug-2025 23:22:46 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`hotelgro_modern`.`guests`, CONSTRAINT `guests_ibfk_1` FOREIGN KEY (`hotel_id`) REFERENCES `hotels` (`id`) ON DELETE CASCADE) in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php:175
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php(175): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php on line 175
+[06-Aug-2025 23:23:10 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`hotelgro_modern`.`guests`, CONSTRAINT `guests_ibfk_1` FOREIGN KEY (`hotel_id`) REFERENCES `hotels` (`id`) ON DELETE CASCADE) in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php:175
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php(175): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php on line 175
+[06-Aug-2025 23:33:27 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`hotelgro_modern`.`guests`, CONSTRAINT `guests_ibfk_1` FOREIGN KEY (`hotel_id`) REFERENCES `hotels` (`id`) ON DELETE CASCADE) in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php:175
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php(175): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php on line 175
+[06-Aug-2025 23:34:19 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`hotelgro_modern`.`guests`, CONSTRAINT `guests_ibfk_1` FOREIGN KEY (`hotel_id`) REFERENCES `hotels` (`id`) ON DELETE CASCADE) in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php:175
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php(175): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php on line 175
+[06-Aug-2025 23:39:06 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`hotelgro_modern`.`guests`, CONSTRAINT `guests_ibfk_1` FOREIGN KEY (`hotel_id`) REFERENCES `hotels` (`id`) ON DELETE CASCADE) in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php:175
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php(175): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php on line 175
+[06-Aug-2025 23:54:02 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 7
+    [checkin_date] => 2025-08-06
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-09
+    [checkout_time] => 10:50:00
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 27000.00
+    [discount] => 0.00
+    [paid] => 0.00
+    [due] => 27000.00
+    [num_guests] => 1
+    [guest_name] => xxxxxxxxxx
+    [reference] => xxxxxxxxxxx
+    [note] => vip
+    [nid_number] => 666
+    [profession] => Artist
+    [email] => krypton.naeem@gmail.com
+    [phone] => 012323
+    [address] => 2
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[06-Aug-2025 23:54:02 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`hotelgro_modern`.`guests`, CONSTRAINT `guests_ibfk_1` FOREIGN KEY (`hotel_id`) REFERENCES `hotels` (`id`) ON DELETE CASCADE) in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php:178
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php(178): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php on line 178
+[06-Aug-2025 23:55:32 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 7
+    [checkin_date] => 2025-08-06
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-09
+    [checkout_time] => 10:50:00
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 27000.00
+    [discount] => 0.00
+    [paid] => 0.00
+    [due] => 27000.00
+    [num_guests] => 1
+    [guest_name] => xxxxxxxxxx
+    [reference] => xxxxxxxxxxx
+    [note] => vip
+    [nid_number] => 666
+    [profession] => Artist
+    [email] => krypton.naeem@gmail.com
+    [phone] => 012323
+    [address] => 2
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[06-Aug-2025 23:55:32 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`hotelgro_modern`.`guests`, CONSTRAINT `guests_ibfk_1` FOREIGN KEY (`hotel_id`) REFERENCES `hotels` (`id`) ON DELETE CASCADE) in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php:178
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php(178): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php on line 178
+[06-Aug-2025 23:55:59 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 7
+    [checkin_date] => 2025-08-06
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-09
+    [checkout_time] => 10:50:00
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 27000.00
+    [discount] => 0.00
+    [paid] => 0.00
+    [due] => 27000.00
+    [num_guests] => 1
+    [guest_name] => xxxxxxxxxx
+    [reference] => eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    [note] => eeeeeeeeeeeeeeeeeeee
+    [nid_number] => 666
+    [profession] => Artist
+    [email] => krypton.naeem@gmail.com
+    [phone] => 012323
+    [address] => 2
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[06-Aug-2025 23:55:59 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`hotelgro_modern`.`guests`, CONSTRAINT `guests_ibfk_1` FOREIGN KEY (`hotel_id`) REFERENCES `hotels` (`id`) ON DELETE CASCADE) in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php:178
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php(178): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php on line 178
+[06-Aug-2025 23:56:10 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 7
+    [checkin_date] => 2025-08-06
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-09
+    [checkout_time] => 10:50:00
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 27000.00
+    [discount] => 0.00
+    [paid] => 0.00
+    [due] => 27000.00
+    [num_guests] => 1
+    [guest_name] => xxxxxxxxxx
+    [reference] => xxxxxxxkjhsajh
+    [note] => vip
+    [nid_number] => 666
+    [profession] => Artist
+    [email] => krypton.naeem@gmail.com
+    [phone] => 012323
+    [address] => 2
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[06-Aug-2025 23:56:10 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`hotelgro_modern`.`guests`, CONSTRAINT `guests_ibfk_1` FOREIGN KEY (`hotel_id`) REFERENCES `hotels` (`id`) ON DELETE CASCADE) in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php:178
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php(178): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php on line 178
+[06-Aug-2025 23:57:32 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 7
+    [checkin_date] => 2025-08-06
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-09
+    [checkout_time] => 10:50:00
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 27000.00
+    [discount] => 0.00
+    [paid] => 0.00
+    [due] => 27000.00
+    [num_guests] => 1
+    [guest_name] => xxxxxxxxxx
+    [reference] => xxxxxxxkjhsajh
+    [note] => vip
+    [nid_number] => 666
+    [profession] => Artist
+    [email] => krypton.naeem@gmail.com
+    [phone] => 012323
+    [address] => 2
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[06-Aug-2025 23:57:32 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hotelgro/manage.hotelgrowthsolutions.com/php/room_status_functions.php:115) in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php on line 186
+[06-Aug-2025 23:58:52 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 7
+    [checkin_date] => 2025-08-06
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-09
+    [checkout_time] => 10:50:00
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 27000.00
+    [discount] => 0.00
+    [paid] => 0.00
+    [due] => 27000.00
+    [num_guests] => 1
+    [guest_name] => xxxxxxxxxx
+    [reference] => xxxxxxxkjhsajh
+    [note] => vip
+    [nid_number] => 666
+    [profession] => Artist
+    [email] => krypton.naeem@gmail.com
+    [phone] => 012323
+    [address] => 2
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 00:00:05 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 7
+    [checkin_date] => 2025-08-06
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-09
+    [checkout_time] => 10:50:00
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 27000.00
+    [discount] => 0.00
+    [paid] => 0.00
+    [due] => 27000.00
+    [num_guests] => 1
+    [guest_name] => Saidul Islam 
+    [reference] => xxxxxxxkjhsajh
+    [note] => vip
+    [nid_number] => 666
+    [profession] => Artist
+    [email] => krypton.naeem@gmail.com
+    [phone] => 012323
+    [address] => 2
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 00:03:48 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 8
+    [checkin_date] => 2025-08-08
+    [checkin_time] => 23:37:00
+    [checkout_date] => 2025-08-09
+    [checkout_time] => 11:00:00
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 3900.00
+    [discount] => 100
+    [paid] => 1.00
+    [due] => 3899.00
+    [num_guests] => 2
+    [guest_name] => eeeeeeeeeee
+    [reference] => 1111
+    [note] => 1
+    [nid_number] => 11
+    [profession] => Teacher
+    [email] => Ee@gmail.com
+    [phone] => 111111111111111111
+    [address] => 11
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 00:27:07 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 9
+    [checkin_date] => 2025-08-07
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-10
+    [checkout_time] => 10:50:00
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 30000.00
+    [discount] => 6000
+    [paid] => 999.99
+    [due] => 29000.01
+    [num_guests] => 2
+    [guest_name] => qqqqqqqqqqq
+    [reference] => ddddd
+    [note] => eeeee
+    [nid_number] => 22
+    [profession] => 2
+    [email] => neonland957@gmail.com
+    [phone] => 22
+    [address] => ww
+    [booking_type] => offline
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 00:27:59 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 9
+    [checkin_date] => 2025-08-07
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-10
+    [checkout_time] => 10:50:00
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 30000.00
+    [discount] => 6000.00
+    [paid] => 999.99
+    [due] => 29000.01
+    [num_guests] => 2
+    [guest_name] => Naeem Iskam
+    [reference] => ddddd
+    [note] => eeeee
+    [nid_number] => 22
+    [profession] => 2
+    [email] => neonland957@gmail.com
+    [phone] => 22
+    [address] => ww
+    [booking_type] => offline
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 00:28:17 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 8
+    [checkin_date] => 2025-08-08
+    [checkin_time] => 23:37:00
+    [checkout_date] => 2025-08-09
+    [checkout_time] => 11:00:00
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 3900.00
+    [discount] => 100.00
+    [paid] => 1.00
+    [due] => 3899.00
+    [num_guests] => 2
+    [guest_name] => Saiful islam
+    [reference] => 1111
+    [note] => 1
+    [nid_number] => 11
+    [profession] => Teacher
+    [email] => Ee@gmail.com
+    [phone] => 111111111111111111
+    [address] => 11
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 12:16:32 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 12
+    [checkin_date] => 2025-08-07
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-08
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 1
+    [breakfast_quantity] => 10
+    [breakfast_total] => 10.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 10.00
+    [total_amount] => 14010.00
+    [discount] => 500.00
+    [paid] => 4000.00
+    [due] => 10010.00
+    [num_guests] => 1
+    [guest_name] => rrrrr
+    [reference] => MB-20250807-9739
+    [note] => Multiple booking - Rooms: 809, 104, 108, 801
+    [nid_number] => 222
+    [profession] => Businessman
+    [email] => krypton.naeem@gmail.com
+    [phone] => 012323
+    [address] => n
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 12:17:17 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 12
+    [checkin_date] => 2025-08-07
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-08
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 
+    [breakfast_quantity] => 10
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 14000.00
+    [discount] => 500.00
+    [paid] => 4000.00
+    [due] => 10000.00
+    [num_guests] => 1
+    [guest_name] => rrrrr
+    [reference] => MB-20250807-9739
+    [note] => Multiple booking - Rooms: 809, 104, 108, 801
+    [nid_number] => 222
+    [profession] => Businessman
+    [email] => krypton.naeem@gmail.com
+    [phone] => 012323
+    [address] => n
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 12:17:17 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect decimal value: '' for column `hotelgro_modern`.`bookings_hotel_4`.`breakfast_price` at row 1 in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php:177
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php(177): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php on line 177
+[07-Aug-2025 12:17:22 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 12
+    [checkin_date] => 2025-08-07
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-08
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 
+    [breakfast_quantity] => 10
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 14000.00
+    [discount] => 500.00
+    [paid] => 4000.00
+    [due] => 10000.00
+    [num_guests] => 1
+    [guest_name] => rrrrr
+    [reference] => MB-20250807-9739
+    [note] => Multiple booking - Rooms: 809, 104, 108, 801
+    [nid_number] => 222
+    [profession] => Businessman
+    [email] => krypton.naeem@gmail.com
+    [phone] => 012323
+    [address] => n
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 12:17:22 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect decimal value: '' for column `hotelgro_modern`.`bookings_hotel_4`.`breakfast_price` at row 1 in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php:177
+Stack trace:
+#0 /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php(177): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/hotelgro/manage.hotelgrowthsolutions.com/manage_bookings.php on line 177
+[07-Aug-2025 12:17:40 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 12
+    [checkin_date] => 2025-08-07
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-08
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 0
+    [breakfast_quantity] => 10
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 14000.00
+    [discount] => 500.00
+    [paid] => 4000.00
+    [due] => 10000.00
+    [num_guests] => 1
+    [guest_name] => rrrrr
+    [reference] => MB-20250807-9739
+    [note] => Multiple booking - Rooms: 809, 104, 108, 801
+    [nid_number] => 222
+    [profession] => Businessman
+    [email] => krypton.naeem@gmail.com
+    [phone] => 012323
+    [address] => n
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 12:19:21 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 12
+    [checkin_date] => 2025-08-07
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-08
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 0.00
+    [breakfast_quantity] => 10
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 14000.00
+    [discount] => 500.00
+    [paid] => 4000.00
+    [due] => 10000.00
+    [num_guests] => 1
+    [guest_name] => rrrrr
+    [reference] => naeeeeeem
+    [note] => Multiple booking - Rooms: 809, 104, 108, 801
+    [nid_number] => 222
+    [profession] => Businessman
+    [email] => krypton.naeem@gmail.com
+    [phone] => 012323
+    [address] => n
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 12:22:23 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 12
+    [checkin_date] => 2025-08-07
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-08
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 0.00
+    [breakfast_quantity] => 10
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 14000.00
+    [discount] => 500.00
+    [paid] => 4000.00
+    [due] => 10000.00
+    [num_guests] => 1
+    [guest_name] => rrrrr
+    [reference] => naeeeeeem
+    [note] => xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    [nid_number] => 222
+    [profession] => Businessman
+    [email] => krypton.naeem@gmail.com
+    [phone] => 012323
+    [address] => n
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 14:47:08 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 13
+    [checkin_date] => 2025-08-07
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-08
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 0.00
+    [breakfast_quantity] => 4
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 8000.00
+    [discount] => 500.00
+    [paid] => 1000.00
+    [due] => 7000.00
+    [num_guests] => 1
+    [guest_name] => e
+    [reference] => deee
+    [note] => e
+    [nid_number] => 222
+    [profession] => Artist
+    [email] => krypton.naeem@gmail.com
+    [phone] => 012323
+    [address] => 2
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 15:22:34 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 15
+    [checkin_date] => 2025-08-07
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-08
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 0.00
+    [breakfast_quantity] => 6
+    [breakfast_total] => 0.00
+    [lunch_enabled] => on
+    [lunch_price] => 0.00
+    [lunch_quantity] => 5
+    [lunch_total] => 0.00
+    [dinner_enabled] => on
+    [dinner_price] => 0.00
+    [dinner_quantity] => 4
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 8000.00
+    [discount] => 1000.00
+    [paid] => 7000.00
+    [due] => 1000.00
+    [num_guests] => 1
+    [guest_name] => Hamid
+    [reference] => joy bangla
+    [note] => jhjh
+    [nid_number] => 9849837489
+    [profession] => Businessman
+    [email] => hmsaiyed123@gmail.com
+    [phone] => 01609198657
+    [address] => 7864hejhfjsdfbsmd
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 15:23:03 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 15
+    [checkin_date] => 2025-08-07
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-08
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 0.00
+    [breakfast_quantity] => 6
+    [breakfast_total] => 0.00
+    [lunch_enabled] => on
+    [lunch_price] => 0.00
+    [lunch_quantity] => 5
+    [lunch_total] => 0.00
+    [dinner_enabled] => on
+    [dinner_price] => 0.00
+    [dinner_quantity] => 4
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 8000.00
+    [discount] => 1000.00
+    [paid] => 7000.00
+    [due] => 1000.00
+    [num_guests] => 1
+    [guest_name] => Hamid
+    [reference] => joy bangla
+    [note] => jhjh
+    [nid_number] => 9849837489
+    [profession] => Businessman
+    [email] => mdsishuvo254@gmail.com
+    [phone] => 01609198657
+    [address] => 7864hejhfjsdfbsmd
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 15:31:12 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 17
+    [checkin_date] => 2025-08-10
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-12
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 0.00
+    [breakfast_quantity] => 1
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 8000.00
+    [discount] => 0.00
+    [paid] => 0.00
+    [due] => 8000.00
+    [num_guests] => 1
+    [guest_name] => w
+    [reference] => Bkassh(10101010)
+    [note] => Multiple booking - Rooms: 102
+    [nid_number] => 222
+    [profession] => Artist
+    [email] => s@gmail.com
+    [phone] => 012323
+    [address] => e
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 15:32:02 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 17
+    [checkin_date] => 2025-08-10
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-12
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 0.00
+    [breakfast_quantity] => 59
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 8000.00
+    [discount] => 0.00
+    [paid] => 0.00
+    [due] => 8000.00
+    [num_guests] => 1
+    [guest_name] => w
+    [reference] => Bkassh(10101010)
+    [note] => Multiple booking - Rooms: 102
+    [nid_number] => 222
+    [profession] => Artist
+    [email] => s@gmail.com
+    [phone] => 012323
+    [address] => e
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 15:32:26 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 17
+    [checkin_date] => 2025-08-10
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-12
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 0.00
+    [breakfast_quantity] => 70
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 8000.00
+    [discount] => 0.00
+    [paid] => 0.00
+    [due] => 8000.00
+    [num_guests] => 1
+    [guest_name] => w
+    [reference] => Bkassh(10101010)
+    [note] => Multiple booking - Rooms: 102
+    [nid_number] => 222
+    [profession] => Artist
+    [email] => s@gmail.com
+    [phone] => 012323
+    [address] => e
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 15:32:39 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 17
+    [checkin_date] => 2025-08-10
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-12
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 0.00
+    [breakfast_quantity] => 49
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 8000.00
+    [discount] => 0.00
+    [paid] => 0.00
+    [due] => 8000.00
+    [num_guests] => 1
+    [guest_name] => w
+    [reference] => Bkassh(10101010)
+    [note] => Multiple booking - Rooms: 102
+    [nid_number] => 222
+    [profession] => Artist
+    [email] => s@gmail.com
+    [phone] => 012323
+    [address] => e
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 15:32:56 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 17
+    [checkin_date] => 2025-08-10
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-12
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 0.00
+    [breakfast_quantity] => 48
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 8000.00
+    [discount] => 0.00
+    [paid] => 0.00
+    [due] => 8000.00
+    [num_guests] => 1
+    [guest_name] => w
+    [reference] => Bkassh(10101010)
+    [note] => Multiple booking - Rooms: 102
+    [nid_number] => 222
+    [profession] => Artist
+    [email] => s@gmail.com
+    [phone] => 012323
+    [address] => e
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 15:45:54 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 19
+    [checkin_date] => 2025-08-08
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-09
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 0.00
+    [breakfast_quantity] => 5
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 4000.00
+    [discount] => 0.00
+    [paid] => 0.00
+    [due] => 4000.00
+    [num_guests] => 1
+    [guest_name] => ttttttt
+    [reference] => hhhhhhhhh
+    [note] => Single room booking - Room: 102
+    [nid_number] => 222
+    [profession] => Artist
+    [email] => s@gmail.com
+    [phone] => 012323
+    [address] => n
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 15:55:19 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 21
+    [checkin_date] => 2025-08-08
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-10
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 0.00
+    [breakfast_quantity] => 7
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 20000.00
+    [discount] => 9000.00
+    [paid] => 15000
+    [due] => 5000.00
+    [num_guests] => 1
+    [guest_name] => www
+    [reference] => MB-20250807-8687
+    [note] => Multiple booking - Rooms: 107, 104, 106, 108
+    [nid_number] => 33
+    [profession] => Artist
+    [email] => s@gmail.com
+    [phone] => 3
+    [address] => 33
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 15:55:35 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 21
+    [checkin_date] => 2025-08-08
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-10
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 0.00
+    [breakfast_quantity] => 7
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 20000.00
+    [discount] => 9000.00
+    [paid] => 20000
+    [due] => 0.00
+    [num_guests] => 1
+    [guest_name] => www
+    [reference] => MB-20250807-8687
+    [note] => Multiple booking - Rooms: 107, 104, 106, 108
+    [nid_number] => 33
+    [profession] => Artist
+    [email] => s@gmail.com
+    [phone] => 3
+    [address] => 33
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 15:56:02 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 21
+    [checkin_date] => 2025-08-08
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-10
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 0.00
+    [breakfast_quantity] => 7
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 20000.00
+    [discount] => 9000.00
+    [paid] => 15000
+    [due] => 5000.00
+    [num_guests] => 1
+    [guest_name] => www
+    [reference] => MB-20250807-8687
+    [note] => Multiple booking - Rooms: 107, 104, 106, 108
+    [nid_number] => 33
+    [profession] => Artist
+    [email] => s@gmail.com
+    [phone] => 3
+    [address] => 33
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 16:00:58 Asia/Dhaka] Edit booking POST data: Array
+(
+    [booking_id] => 21
+    [checkin_date] => 2025-08-08
+    [checkin_time] => 11:00:00
+    [checkout_date] => 2025-08-10
+    [checkout_time] => 10:50:00
+    [breakfast_enabled] => on
+    [breakfast_price] => 0.00
+    [breakfast_quantity] => 7
+    [breakfast_total] => 0.00
+    [lunch_total] => 0.00
+    [dinner_total] => 0.00
+    [meal_total] => 0.00
+    [total_amount] => 20000.00
+    [discount] => 9000.00
+    [paid] => 15000.00
+    [due] => 5000.00
+    [num_guests] => 1
+    [guest_name] => www
+    [reference] => MB-20250807-8687
+    [note] => Vip  Guest
+    [nid_number] => 33
+    [profession] => Artist
+    [email] => s@gmail.com
+    [phone] => 3
+    [address] => 33
+    [booking_type] => online
+    [status] => active
+    [edit_booking] => 
+)
+
+[07-Aug-2025 16:33:54 Asia/Dhaka] Adding room: Number=102, Category=Luxury Dream, Description=CITY VIEW, Price=2500.00
+[07-Aug-2025 16:33:54 Asia/Dhaka] Room added successfully with ID: 1
+[07-Aug-2025 16:34:03 Asia/Dhaka] Adding room: Number=103, Category=SEA BITE, Description=CITY VIEW, Price=3000.00
+[07-Aug-2025 16:34:03 Asia/Dhaka] Room added successfully with ID: 2
+[07-Aug-2025 16:34:10 Asia/Dhaka] Adding room: Number=104, Category=Standard Room, Description=7/365, Price=1000.00
+[07-Aug-2025 16:34:10 Asia/Dhaka] Room added successfully with ID: 3
+[07-Aug-2025 16:34:16 Asia/Dhaka] Adding room: Number=105, Category=Standard Room, Description=7/365, Price=1000.00
+[07-Aug-2025 16:34:16 Asia/Dhaka] Room added successfully with ID: 4
+[07-Aug-2025 16:34:22 Asia/Dhaka] Adding room: Number=106, Category=SEA BITE, Description=CITY VIEW, Price=3000.00
+[07-Aug-2025 16:34:22 Asia/Dhaka] Room added successfully with ID: 5
+[07-Aug-2025 16:34:29 Asia/Dhaka] Adding room: Number=208, Category=SEA BITE, Description=CITY VIEW, Price=3000.00
+[07-Aug-2025 16:34:29 Asia/Dhaka] Room added successfully with ID: 6
+[07-Aug-2025 16:34:37 Asia/Dhaka] Adding room: Number=209, Category=SEA BITE, Description=HILL & CITY VIEW, Price=3500.00
+[07-Aug-2025 16:34:37 Asia/Dhaka] Room added successfully with ID: 7
+[07-Aug-2025 16:35:17 Asia/Dhaka] Adding room: Number=605, Category=SEA BITE, Description=CITY VIEW, Price=3000.00
+[07-Aug-2025 16:35:17 Asia/Dhaka] Room added successfully with ID: 8
+[07-Aug-2025 16:35:24 Asia/Dhaka] Adding room: Number=680, Category=SEA BITE, Description=HILL & CITY VIEW, Price=3500.00
+[07-Aug-2025 16:35:24 Asia/Dhaka] Room added successfully with ID: 9
+[07-Aug-2025 16:35:32 Asia/Dhaka] Adding room: Number=908, Category=Luxury Dream, Description=CITY VIEW, Price=2500.00
+[07-Aug-2025 16:35:32 Asia/Dhaka] Room added successfully with ID: 10
+[07-Aug-2025 16:37:03 Asia/Dhaka] Adding room: Number=102, Category=Luxury Dream, Description=CITY VIEW, Price=2500.00
+[07-Aug-2025 16:37:03 Asia/Dhaka] Room added successfully with ID: 11
+[07-Aug-2025 16:37:11 Asia/Dhaka] Adding room: Number=905, Category=Luxury Dream, Description=CITY VIEW, Price=2500.00
+[07-Aug-2025 16:37:11 Asia/Dhaka] Room added successfully with ID: 12
+[07-Aug-2025 16:37:50 Asia/Dhaka] Adding room: Number=704, Category=Couple Superior Deluxe, Description=SEA & HILL VIEW, Price=5000.00
+[07-Aug-2025 16:37:50 Asia/Dhaka] Room added successfully with ID: 13
+[07-Aug-2025 16:37:56 Asia/Dhaka] Adding room: Number=705, Category=Couple Superior Deluxe, Description=SEA & HILL VIEW, Price=5000.00
+[07-Aug-2025 16:37:56 Asia/Dhaka] Room added successfully with ID: 14
+[07-Aug-2025 16:38:02 Asia/Dhaka] Adding room: Number=708, Category=Couple Superior Deluxe, Description=SEA & HILL VIEW, Price=5000.00
+[07-Aug-2025 16:38:02 Asia/Dhaka] Room added successfully with ID: 15
+[07-Aug-2025 17:53:07 Asia/Dhaka] PHP Warning:  Undefined array key "user_name" in /home/hotelgro/manage.hotelgrowthsolutions.com/pricing.php on line 16
+[07-Aug-2025 17:53:07 Asia/Dhaka] PHP Warning:  Undefined array key "user_role" in /home/hotelgro/manage.hotelgrowthsolutions.com/pricing.php on line 17
+[07-Aug-2025 17:53:07 Asia/Dhaka] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hotelgro/manage.hotelgrowthsolutions.com/pricing.php:16) in /home/hotelgro/manage.hotelgrowthsolutions.com/pricing.php on line 22
